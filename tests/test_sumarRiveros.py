@@ -1,4 +1,4 @@
-from funciones.sumar import sumar
+from funciones.sumarRiveros import sumar
 
 def test_sumar():
  assert sumar(3, 5) == 8
